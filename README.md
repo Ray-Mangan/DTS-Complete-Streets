@@ -80,7 +80,7 @@ Utilzie all previously compiled attributes in *modal composite 05* to auto-assig
 Load manual over-rides for complete street types (assigned by project team) back to the main modal composite dataset
 
 - ArcGIS Pro Standalone Python Script (jupyter notebook)
-- [link](google.com)
+- [link](https://github.com/Ray-Mangan/DTS-Complete-Streets/blob/main/DTS%20-%2007%20-%20Street%20Typology%20Overrides.ipynb)
 
 ## 08 - Modal Priortization
 Implement modal prioritization logic for street segments where Unconstrained Modal Width exceeds the currently available ROW width. Calculate Constrained Modal Width, Area, and other metrics
