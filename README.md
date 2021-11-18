@@ -29,25 +29,26 @@ Develop a high-level estimate of total on-street parking spaces for Honolulu Cou
 - ArcGIS Pro Python Toolbox
 - [link](google.com)
 
-## 04a - Modal Composite
-Load DTS Pedesrian Plan (modal composite 01) and Bike Plan (modal composite 02) datasets to the street centerline GIS dataset
+## 04a - Modal Composite - Episode 01
+1. Load DTS Pedesrian Plan datset to the street centerline GIS Dataset to create "modal composite 01"
+2. Load DTS Bike Plan datasets to the street centerline GIS dataset to create "modal composite 02"
 
 - ArcGIS Pro Standalone Python Script (jupyter notebook)
 - [link](google.com)
 
 
-## 04b - Modal Composite
+## 04b - Modal Composite - Episode 02
 
-1. Load attributes from ROW Estimate, 1986 ROW Conversion, and 2020 TransCAD data (modal composite 03) to the street centerline GIS dataset
-2. Load attributes from 2040 TransCAD (modal composite 04) to the street centerline GIS dataset
-3. Load attributes from Bus Transit Priority Network (modal composite 05) to the street centerline GIS dataset
+1. Load attributes from ROW Estimate, 1986 ROW Conversion, and 2020 TransCAD data to the street centerline GIS dataset to create "modal composite 03"
+2. Load attributes from 2040 TransCAD (modal composite 04) to the street centerline GIS dataset to create "modal composite 04"
+3. Load attributes from Bus Transit Priority Network (modal composite 05) to the street centerline GIS dataset to create "modal composite 05"
 
 - ArcGIS Pro Python Toolbox
 - [link](google.com)
 
 ## 05 - Modal Widths
 
-Load DTS Pedesrian Plan (modal composite 01) and Bike Plan (modal composite 02) datasets to the street centerline GIS dataset
+Utilize 
 
 - ArcGIS Pro Standalone Python Script (jupyter notebook)
 - [link](google.com)
