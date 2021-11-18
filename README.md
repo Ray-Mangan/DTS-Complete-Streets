@@ -1,5 +1,5 @@
-# DTS-Complete-Streets
-Repository for technical documentation and code related to DTS - Complete Streets Analysis. 
+# DTS-Right-of-Way Widths for Planned Street Improvments
+Repository for technical documentation and code related to DTS - Right-of-Way Widths for Planned Street Improvements project.
 
 Note:
 Input and output datasets are not included in this repository.
