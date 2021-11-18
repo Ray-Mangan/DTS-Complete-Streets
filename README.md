@@ -22,7 +22,9 @@ Input and output datasets are not included in this repository.
 2. The 2020 ROW width was estimated using the Honolulu TMK parcel dataset as it's main input, and the key assumption that distances between parcels on opposite sides of the street are suitably accurate for this analysis.
 3. All GIS analysis was performed with ArcGIS Pro 2.6 and Python 3.6.
 
-# Analysis Milestones
+# Analysis Milestones & Overview
+
+>*Convert 1986 ROW Table --> Estimate 2020 ROW --> Estimate Parking --> Create Composite Modal Dataset --> Calculate Current & Unconstrained Modal Widths --> Assign Complete Street Typologies --> Implement Modal Prioritization Logic & Constrained Modal Widths --> Calculate Economic Justice & Sea Level Rise Metrics --> Summarize Results*
 
 ## 01 - 1986 ROW Table Conversion
 Convert the original 1986 ROW table scan to a digital table and load it's attribute fields onto the current Honolulu street centerline GIS dataset.
