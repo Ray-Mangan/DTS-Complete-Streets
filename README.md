@@ -86,7 +86,7 @@ Load manual over-rides for complete street types (assigned by project team) back
 Implement modal prioritization logic for street segments where Unconstrained Modal Width exceeds the currently available ROW width. Calculate Constrained Modal Width, Area, and other metrics
 
 - ArcGIS Pro Standalone Python Script (jupyter notebook)
-- [link](google.com)
+- [link](https://github.com/Ray-Mangan/DTS-Complete-Streets/blob/main/DTS%20-%2008%20-%20Modal%20Prioritization.ipynb)
 
 ## 09 - Economic Justice & Sea Level Rise Exposure Area Analysis
 Calculate metrics related to Economic Justice and Sea Level Rise Exposure Area
