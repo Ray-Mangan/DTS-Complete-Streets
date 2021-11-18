@@ -1,20 +1,20 @@
-# DTS-Right-of-Way Widths for Planned Street Improvments
+# DTS-Right-of-Way Widths for Planned Street Improvements
 Repository for technical documentation and code related to DTS - Right-of-Way Widths for Planned Street Improvements project.
 
 Note:
 Input and output datasets are not included in this repository.
 
 ## How to use these files
-Option 1 - Use GitHub Desktop to clone this repository to your local machine
+**Option 1** - Use GitHub Desktop to clone this repository to your local machine
 1. Install GitHub Desktop client & create an account
-2. Click the green "code" button on the top right of this page
+2. Click the green "code" button on the top right of the repository main page
 3. Select "Open with GitHub Desktop" from the dropdown menu
 4. Using GitHub Desktop, clone this repository to the directory of your choice on your local machine.
 
-Option 2 - Fork this repository (create a copy of it) to your own GitHub account
+**Option 2** - Fork this repository (create a copy of it) to your own GitHub account
 
-Option 3 - Manually download sources files (no notification of changes)
-1. Click the green "code" button on the top right of this page
+**Option 3** - Manually download sources files (no notification of changes)
+1. Click the green "code" button on the top right of the repository main page
 2. Select "download ZIP" from the dropdown menu
 
 ## Main Assumptions & Notes
