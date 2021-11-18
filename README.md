@@ -48,7 +48,7 @@ Develop a high-level estimate of total on-street parking spaces for Honolulu Cou
 2. Load DTS Bike Plan datasets to the street centerline GIS dataset to create *modal composite 02*
 
 - ArcGIS Pro Standalone Python Script (jupyter notebook)
-- [link](google.com)
+- [link](https://github.com/Ray-Mangan/DTS-Complete-Streets/blob/main/DTS%20-%2004%20-%20Modal%20Composite.ipynb)
 
 
 ## 04b - Modal Composite - Episode 02
