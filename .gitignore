@@ -1,0 +1,6 @@
+#mac system files
+.DS_store
+
+#jupypter notebook checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
