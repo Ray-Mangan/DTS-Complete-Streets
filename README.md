@@ -72,7 +72,7 @@ Utilize all previously compiled attributes in *modal composite 05* in conjunctio
 Utilzie all previously compiled attributes in *modal composite 05* to auto-assign Complete Street Types to street segments. To be used as a starting point for manual review by project team.
 
 - ArcGIS Pro Standalone Python Script (jupyter notebook)
-- [link](google.com)
+- [link](https://github.com/Ray-Mangan/DTS-Complete-Streets/blob/main/DTS%20-%2006%20-%20Street%20Typologies.ipynb)
 
 ## 07 - Street Typology Overrides
 Load manual over-rides for complete street types (assigned by project team) back to the main modal composite dataset
