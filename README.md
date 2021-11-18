@@ -1,10 +1,21 @@
 # DTS-Complete-Streets
-Repository for technical documentation and code related to DTS - Complete Streets Analysis
+Repository for technical documentation and code related to DTS - Complete Streets Analysis. 
+
+Note:
+Input and output datasets are not included in this repository.
 
 ## How to use these files
-Option 1 - Use GitHub Desktop
+Option 1 - Use GitHub Desktop to clone this repository to your local machine
+1. Install GitHub Desktop client & create an account
+2. Click the green "code" button on the top right of this page
+3. Select "Open with GitHub Desktop" from the dropdown menu
+4. Using GitHub Desktop, clone this repository to the directory of your choice on your local machine.
 
-Option 2 - Manually download sources files (no notification of changes)
+Option 2 - Fork this repository (create a copy of it) to your own GitHub account
+
+Option 3 - Manually download sources files (no notification of changes)
+1. Click the green "code" button on the top right of this page
+2. Select "download ZIP" from the dropdown menu
 
 ## Main Assumptions & Notes
 1. This analysis builds upon and utilizes multiple datasets created by a wide range of sources. As such, this analysis inherits all assumptions from it's individual component inputs
