@@ -65,7 +65,7 @@ Develop a high-level estimate of total on-street parking spaces for Honolulu Cou
 Utilize all previously compiled attributes in *modal composite 05* in conjunction with standardized width parameters for elements in the street cross section to calcualte Unconstrained Modal Width, Area, and other metrics.
 
 - ArcGIS Pro Standalone Python Script (jupyter notebook)
-- [link](google.com)
+- [link](https://github.com/Ray-Mangan/DTS-Complete-Streets/blob/main/DTS%20-%2005%20-%20Modal%20Widths.ipynb)
 
 ## 06 - Street Typology Assignment
 
