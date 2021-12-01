@@ -45,7 +45,7 @@ Develop a high-level estimate of total on-street parking spaces for Honolulu Cou
 - ArcGIS Pro Python Toolbox
 - [link](google.com)
 
-## 04a - Modal Composite - Episode 01
+## 04a - Modal Composite - Part 01
 1. Load DTS Pedesrian Plan datset to the street centerline GIS Dataset to create *modal composite 01*
 2. Load DTS Bike Plan datasets to the street centerline GIS dataset to create *modal composite 02*
 
@@ -53,7 +53,7 @@ Develop a high-level estimate of total on-street parking spaces for Honolulu Cou
 - [link](https://github.com/Ray-Mangan/DTS-Complete-Streets/blob/main/DTS%20-%2004%20-%20Modal%20Composite.ipynb)
 
 
-## 04b - Modal Composite - Episode 02
+## 04b - Modal Composite - Part 02
 
 1. Load attributes from 2020 ROW Estimate, 1986 ROW Conversion, and TransCAD 2020 data to the street centerline GIS dataset to create *modal composite 03*
 2. Load attributes from TransCAD 2040 to the street centerline GIS dataset to create *modal composite 04*
@@ -92,10 +92,10 @@ Implement modal prioritization logic for street segments where Unconstrained Mod
 Calculate metrics related to Economic Justice and Sea Level Rise Exposure Area
 
 - ArcGIS Pro Standalone Python Script (jupyter notebook)
-- [link](google.com)
+- [link](https://github.com/Ray-Mangan/DTS-Complete-Streets/blob/main/DTS%20-%2009%20-%20Environmental%20Analysis.ipynb)
 
 ## 10 - Results Summary
 Calculate final summary metrics
 
 - ArcGIS Pro Standalone Python Script (jupyter notebook)
-- [link](google.com)
+- [link](https://github.com/Ray-Mangan/DTS-Complete-Streets/blob/main/DTS%20-%2010%20-%20Results%20Summary.ipynb)
