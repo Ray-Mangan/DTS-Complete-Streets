@@ -5,11 +5,10 @@ Note:
 Input and output datasets are not included in this repository.
 
 ## Table of Contents
-1. About The Project
-2. How to use the files
+1. About the Project
+2. How to use these files
 3. Key Assumptions & Notes
 5. Analysis Overview & Individual Milestones
-6. Potential Improvements
 
 ## About The Project
 The aim of this project is to develop a single, comprehensive, GIS dataset for Honolulu that include attributes and metrics from numerous other projects. 
@@ -39,30 +38,32 @@ Individual goals:
 1. This analysis builds upon and utilizes multiple datasets created by a wide range of sources. As such, this analysis inherits all assumptions from it's individual component inputs
 2. The 2020 ROW width was estimated using the Honolulu TMK parcel dataset as it's main input, and the **key assumption that distances between parcels on opposite sides of the street are suitably accurate** for this analysis.
 3. All GIS analysis was performed with **ArcGIS Pro 2.6** and **Python 3.6**
-4. The final modal composite dataset for this project is a **static dataset**, and will need to be updated over time as the Honolulu Street Centerline geometry changes, tax parcels change, and new modal plans and datasets are developed.
+4. Numerous geoprocessing routines in this project utilize arcpy functions which require an Advanced license level.
+5. The final modal composite dataset for this project is a **static dataset**, and will need to be updated over time as the Honolulu Street Centerline geometry changes, tax parcels change, and new modal plans and datasets are developed.
 
-## Analysis Milestones & Overview
+## Analysis Overview
 
 >*Convert 1986 ROW Table --> Estimate 2020 ROW --> Estimate Parking --> Create Composite Modal Dataset --> Calculate Current & Unconstrained Modal Widths --> Assign Complete Street Typologies --> Implement Modal Prioritization Logic & Constrained Modal Widths --> Calculate Economic Justice & Sea Level Rise Metrics --> Summarize Results*
+
+### Please see Wiki--> Methodology for full technical documentation
 
 ### 01 - 1986 ROW Table Conversion
 Convert the original 1986 ROW table scan to a digital table and load it's attribute fields onto the current Honolulu street centerline GIS dataset.
 - manual conversion
-- [link](google.com)
 
 
 ### 02 - ROW Width Estimation
 Estimate ROW width for all street segments in Honolulu county by calculating average parcel to parcel distances tangent to the street centerline.
 
 - ArcGIS Pro Python Toolbox
-- [link](www.google.com)
+- [link](https://github.com/Ray-Mangan/DTS-Complete-Streets/blob/main/ROW%20Tools.tbx)
 
 
 ### 03 - Parking Estimation
 Develop a high-level estimate of total on-street parking spaces for Honolulu County
 
 - ArcGIS Pro Python Toolbox
-- [link](google.com)
+- [link](https://github.com/Ray-Mangan/DTS-Complete-Streets/blob/main/ROW%20Tools.tbx)
 
 ### 04a - Modal Composite Development - Step 1
 1. Load DTS Pedestrian Plan dataset to the street centerline GIS Dataset to create *modal composite 01*
@@ -79,7 +80,7 @@ Develop a high-level estimate of total on-street parking spaces for Honolulu Cou
 3. Load attributes from Bus Transit Priority Network to the street centerline GIS dataset to create *modal composite 05*
 
 - ArcGIS Pro Python Toolbox
-- [link](google.com)
+- [link](https://github.com/Ray-Mangan/DTS-Complete-Streets/blob/main/ROW%20Tools.tbx)
 
 ### 05 - Modal Widths
 
@@ -119,5 +120,3 @@ Calculate final summary metrics
 - ArcGIS Pro Standalone Python Script (jupyter notebook)
 - [link](https://github.com/Ray-Mangan/DTS-Complete-Streets/blob/main/DTS%20-%2010%20-%20Results%20Summary.ipynb)
 
-
-## Potential Improvements
